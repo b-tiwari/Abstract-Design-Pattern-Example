@@ -1,9 +1,0 @@
-C:\w_VS_Examples\dotNetExample\dotNetExample_CarInfoAgency\bin\Debug\dotNetExample_CarInfoAgency.exe.config
-C:\w_VS_Examples\dotNetExample\dotNetExample_CarInfoAgency\bin\Debug\dotNetExample_CarInfoAgency.exe
-C:\w_VS_Examples\dotNetExample\dotNetExample_CarInfoAgency\bin\Debug\dotNetExample_CarInfoAgency.pdb
-C:\w_VS_Examples\dotNetExample\dotNetExample_CarInfoAgency\obj\Debug\CarInfoAgency.csprojResolveAssemblyReference.cache
-C:\w_VS_Examples\dotNetExample\dotNetExample_CarInfoAgency\obj\Debug\CarInfoAgency.csproj.GenerateResource.Cache
-C:\w_VS_Examples\dotNetExample\dotNetExample_CarInfoAgency\obj\Debug\dotNetExample_CarInfoAgency.exe
-C:\w_VS_Examples\dotNetExample\dotNetExample_CarInfoAgency\obj\Debug\dotNetExample_CarInfoAgency.pdb
-C:\w_VS_Examples\dotNetExample\dotNetExample_CarInfoAgency\obj\Debug\carInfoAgencyExample.CarInfo_UI.resources
-C:\w_VS_Examples\dotNetExample\dotNetExample_CarInfoAgency\obj\Debug\carInfoAgencyExample.Properties.Resources.resources
